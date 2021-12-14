@@ -1,0 +1,20 @@
+{
+	"URL": ["Open in Browser", "Quick Look"],
+	"HTTP URL": ["Open in Browser", "Quick Look"],
+	"Non-Standard URL": ["Open in Browser", "Quick Look"],
+	"Twitter URL": ["Open in Twitterrific", "Open in Browser", "Quick Look"],
+	"Reddit URL": ["Open in Apollo", "Open in Browser", "Quick Look"],
+	"Wikipedia URL": ["Open in V", "Open in Browser", "Quick Look"],
+	"Hacker News URL": ["Open in Octal", "Open in Browser", "Quick Look"],
+	"Text": ["Open in Textastic", "Quick Look"],
+	"txt": ["Open in Textastic", "Quick Look"],
+	"md": ["Open in iA Writer", "Open in Textastic", "Quick Look"],
+	"PDF": ["Open in GoodReader", "Open in GoodNotes", "Open in Prizmo", "Open in PDFGenius", "Open in Badger", "Quick Look"],
+	"ooutline": ["Open in OmniOutliner"],
+	"opml": ["Open in OmniOutliner"],
+	"eml": ["Open in EML Viewer"],
+	"apkg": ["Open in Anki"],
+	"colpkg": ["Open in Anki"],
+	"hc": ["Open in Disk Decipher"],
+	"HTTP URL @www.youtube.com": ["Open in YouTube"]
+}
