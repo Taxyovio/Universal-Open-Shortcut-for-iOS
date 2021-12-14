@@ -1,4 +1,4 @@
-[Open](https://www.icloud.com/shortcuts/e64ccce28c4143f1b803097e8e183d7c) is a shortcut for the iOS Shortcuts app, which opens links and files into specified apps, as defined in a `json` dictionary.
+[Open](https://www.icloud.com/shortcuts/00940761fcdc4d7eb5b2bf77a95a6080) is a shortcut for the iOS Shortcuts app, which opens links and files into specified apps, as defined in a `json` dictionary.
 
 ## Usage
 To open files and URLs in the specified apps, simply invoke the shortcut in Share Sheet. Here are some examples:
